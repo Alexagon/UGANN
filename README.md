@@ -2,7 +2,9 @@
 ## My Master's Degree Program
 A neural network data classifier that is trained only through a genetic algorithm.  
 To train the program, I used the breast cancer disease datasets.  
-Accuracy on test data: 0.15-0.04
+Accuracy on test data: 0.15-0.04  
+
+GUI made with Qt  
 
 Please consider before acquaintance:
 - Code contains comments on russian language
