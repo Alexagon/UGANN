@@ -6,4 +6,4 @@ Accuracy on test data: 0.15-0.04
 
 Please consider before acquaintance:
 - Code contains comments on russian language
-- This program was added for saving only and will not be updated in the future
+- This program was published for saving only and will not be updated in the future
